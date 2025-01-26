@@ -4,7 +4,7 @@ body {
   padding: 0;
   background-color:#ffffff ;
   box-sizing: border-box;
-  overflow-x: hidden; /* Ascunde scrollbar-ul orizontal */
+  overflow-x: hidden; 
 }
 
 .client-message {
